@@ -129,10 +129,10 @@ _G.packer_plugins = {
     path = "/home/oliverperboni/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
-  ["nord.nvim"] = {
+  nord = {
     loaded = true,
-    path = "/home/oliverperboni/.local/share/nvim/site/pack/packer/start/nord.nvim",
-    url = "https://github.com/shaunsingh/nord.nvim"
+    path = "/home/oliverperboni/.local/share/nvim/site/pack/packer/start/nord",
+    url = "https://github.com/gbprod/nord.nvim"
   },
   ["nvim-cmp"] = {
     loaded = true,

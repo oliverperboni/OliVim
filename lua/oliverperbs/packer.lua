@@ -14,7 +14,7 @@ return require('packer').startup(function(use)
   use { "catppuccin/nvim", as = "catppuccin" }
 
   use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
-
+use('gbprod/nord.nvim', as = "nord")
   use('nvim-treesitter/playground')
 
 
